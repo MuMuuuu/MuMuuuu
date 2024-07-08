@@ -1,1 +1,14 @@
-[{"name":"A", "descript":"<script>alert('123')</script>"}]
+[
+  {
+    "name": "A",
+    "descript": "<script>alert('A')</script><b>A</b> for APT."
+  },
+  {
+    "name": "B",
+    "descript": "<svg/onload=alert('B')><b>B</b> for Bug Bounty."
+  },
+  {
+    "name": "C",
+    "descript": "<b>C</b> for CTF."
+  }
+]
